@@ -5,8 +5,7 @@ Bu proje, Patika+ Frontend Web Developer Programı kapsamında geliştirilmiş b
 
 ## Proje linkleri
 
--  Canlı link https://deluxe-paletas-df9ae8.netlify.app
-- Backend github linki https://github.com/Ceiberon/LibAppBe
+-  Canlı link https://kutuphaneapp.onrender.com
 
 
 ## Proje Özellikleri
